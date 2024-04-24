@@ -30,12 +30,12 @@ Users can parse the data in the repository to see a multitude of things, such as
 
 ## **Data Examples**
 
-* he maps, graphs, and charts you can make with your data are almost endless as mentioned in the Possible Uses section 
+* The maps, graphs, and charts you can make with your data are almost endless as mentioned in the Possible Uses section 
 
 * I recently used [Flourish](https://flourish.studio/) a free data visualzation tool to make my recent data 
 
 * It is a simple chart that tracks the mean zip code of each possible result for a food inspection
   *   This helps users understand where possible violations are coming from
  
-  ![alt-text](image.jpg) 
+  ![alt-text](snapshot-1713935878407.jpeg) 
 
