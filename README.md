@@ -3,6 +3,8 @@ This reposatory gives additonal information on why Chicago resturants failed ins
 
 **Purpose**
 This repository maps resturants that failed food inspections in Chicago 
+
+
 **Possible Uses**
 Users can parse the data in the repository to see a multitude of things, such as:
 1. See where a large concentrations of resturants failed health inspections 
