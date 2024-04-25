@@ -32,9 +32,9 @@ Users can parse the data in the repository to see a multitude of things, such as
 
 * The maps, graphs, and charts you can make with your data are almost endless as mentioned in the Possible Uses section 
 
-* I used [Flourish](https://flourish.studio/) a free data visualzation tool to make my recent data 
+* I used [Flourish](https://flourish.studio/) a free data visualization tool to make my recent data chart
 
-* It is a simple chart that tracks the mean zip code of each possible result for a food inspection
+* It is a simple chart that tracks the median zip code of each possible result for a food inspection
   *   This helps users understand where possible violations are coming from
  
   ![alt-text](snapshot-1713935878407.jpeg) 
