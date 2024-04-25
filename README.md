@@ -24,7 +24,7 @@ Users can parse the data in the repository to see a multitude of things, such as
 
 ### Coding help
 
-* This repository also contains [Coding Examples](Untitled2.ipyn) that helps you further understand the data and shape it to your liking
+* This repository also contains [Coding Examples](https://github.com/senorris/Chicago-Food-Inspection-Failures/blob/main/Food_Inspection_Failures_Sorted.ipynb) that help you further understand the data and shape it to your liking
 
 * The Coding Example also creates a step-by-step guide to ensure maximum ease for someone trying to learn about Chicago Food Inspections 
 
@@ -32,7 +32,7 @@ Users can parse the data in the repository to see a multitude of things, such as
 
 * The maps, graphs, and charts you can make with your data are almost endless as mentioned in the Possible Uses section 
 
-* I recently used [Flourish](https://flourish.studio/) a free data visualzation tool to make my recent data 
+* I used [Flourish](https://flourish.studio/) a free data visualzation tool to make my recent data 
 
 * It is a simple chart that tracks the mean zip code of each possible result for a food inspection
   *   This helps users understand where possible violations are coming from
