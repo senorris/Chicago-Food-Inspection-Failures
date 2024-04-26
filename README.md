@@ -1,11 +1,11 @@
 # Chicago-Food-Inspection-Failures
-This reposatory gives additonal information on why Chicago resturants failed inspections and where they are located
+This reposatory gives additonal information on results of food inspections in Chicago and where the inspections occur
 
 ## **Purpose**
 
 * This repository shows the work city food inspectors have done in Chicago over the past year.
 
-* It also brings consumer awareness to issues that various food faciltys have had so they can be aware of potnetial problems
+* It also brings consumer awareness to issues that various food facilties have had so users know about potential problems
 
 
 ## **Possible Uses**
@@ -34,8 +34,8 @@ Users can parse the data in the repository to see a multitude of things, such as
 
 * I used [Flourish](https://flourish.studio/) a free data visualization tool to make my recent data chart
 
-* It is a simple chart that tracks the median zip code of each possible result for a food inspection
-  *   This helps users understand where possible violations are coming from
+* It is a simple chart that tracks the mode zip code for each possible result of a food inspection
+  *   This helps users understand where possible violations are coming from and where the resturants that pass are located
  
   ![alt-text](Zip%20Code%20Graph.jpeg) 
 
