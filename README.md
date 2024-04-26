@@ -37,5 +37,5 @@ Users can parse the data in the repository to see a multitude of things, such as
 * It is a simple chart that tracks the median zip code of each possible result for a food inspection
   *   This helps users understand where possible violations are coming from
  
-  ![alt-text](snapshot-1713935878407.jpeg) 
+  ![alt-text](Zip%20Code%20Graph.jpeg) 
 
