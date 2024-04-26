@@ -24,7 +24,7 @@ Users can parse the data in the repository to see a multitude of things, such as
 
 ### Coding help
 
-* This repository also contains [Coding Examples](https://github.com/senorris/Chicago-Food-Inspection-Failures/blob/main/Food_Inspection_Failures_Sorted.ipynb) that help you further understand the data and shape it to your liking
+* This repository also contains [Coding Examples](https://github.com/senorris/Chicago_Food_Inspection_Failures/blob/main/Possible%20Coding%20Uses.ipynb) that help you further understand the data and shape it to your liking
 
 * The Coding Example also creates a step-by-step guide to ensure maximum ease for someone trying to learn about Chicago Food Inspections 
 
