@@ -1,4 +1,4 @@
-# Chicago-Food-Inspection-Failures
+# Chicago Food Inspection Failures
 This reposatory gives additonal information on results of food inspections in Chicago and where the inspections occur
 
 ## **Purpose**
