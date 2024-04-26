@@ -37,5 +37,5 @@ Users can parse the data in the repository to see a multitude of things, such as
 * It is a simple chart that tracks the mode zip code for each possible result of a food inspection
   *   This helps users understand where possible violations are coming from and where the resturants that pass are located
  
-  ![alt-text](Zip%20Code%20Graph.jpeg) 
+  ![alt-text](ZIp%20Code%20Chart.png) 
 
